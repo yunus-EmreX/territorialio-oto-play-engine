@@ -1,0 +1,18 @@
+{
+  "name": "terriengine",
+  "version": "2.0.0",
+  "description": "Opening engine for Territorial.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node engine/core.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teinc3/TerriEngine.git"
+  },
+  "author": "Teinc3",
+  "bugs": {
+    "url": "https://github.com/Teinc3/TerriEngine/issues"
+  },
+  "homepage": "https://github.com/Teinc3/TerriEngine#readme"
+}
